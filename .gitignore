@@ -1,0 +1,10 @@
+# Ignore folders
+Cache/
+Comprehensive Disaster Dataset(CDD)/
+data/
+organized_data/
+
+# Ignore files
+*.zip
+*.pptx
+*.txt
